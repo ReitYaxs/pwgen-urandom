@@ -18,7 +18,7 @@ NGEGCHmLsyk#ZUuQ
 **How it works**
 
 Uses `/dev/urandom` as the entropy source.
-The character set is intentionally restricted to symbols that are accepted by generally all websites.
+The character set is intentionally restricted to symbols that are commonly accepted by various websites.
 
 **Usage**
 
