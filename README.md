@@ -1,6 +1,4 @@
-# pwgen-urandom
-
-*A minimalistic CLI utility for instant local password generation.*
+# A minimalistic CLI utility for instant local password generation.
 
 Supports GNU/Linux, NixOS and macOS (including Homebrew setups).
 
