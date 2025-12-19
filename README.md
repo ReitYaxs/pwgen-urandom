@@ -1,4 +1,4 @@
-# A minimalistic CLI utility for instant local password generation.
+# Minimalistic CLI password generator.
 
 Supports GNU/Linux, NixOS and macOS (including Homebrew setups).
 
