@@ -20,7 +20,7 @@ NGEGCHmLsyk#ZUuQ
 Uses `/dev/urandom` as the entropy source.
 The character set is intentionally restricted to symbols that are accepted by generally all websites.
 
-**How to initiate**
+**Usage**
 
 Binary name: `noisepass`. Use this name to call the utility from the CLI.
 
