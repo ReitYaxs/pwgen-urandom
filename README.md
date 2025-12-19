@@ -1,4 +1,4 @@
-# Minimalistic command-line password generator.
+# pwgen-urandom — minimalistic command-line password generator.
 
 Supports GNU/Linux, NixOS and macOS (including Homebrew setups).
 
