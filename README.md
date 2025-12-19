@@ -26,8 +26,8 @@ Binary name: `noisepass`. Use this name to call the utility from the CLI.
 
 **How to use**
 
-`noisepass` → generates a 16 (by defualt) character password
-`noisepass N` → generates a N character password
+`noisepass` → generates a 16 (by default) character password
+`noisepass N` → generates an N character password
 
 **Installation (user-level, no sudo):**
 
