@@ -1,4 +1,4 @@
-# Minimalistic CLI password generator.
+# Minimalistic command-line password generator.
 
 Supports GNU/Linux, NixOS and macOS (including Homebrew setups).
 
