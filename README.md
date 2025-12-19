@@ -35,7 +35,7 @@ curl -fsSL https://raw.githubusercontent.com/hopsayer/pwgen-urandom/main/noisepa
 ln -sf ~/.local/bin/noisepass ~/.local/bin/pwgen-urandom    # Optional
 ```
 
-**OR**
+**Or alternatively:**
 
 ```
 git clone https://github.com/hopsayer/pwgen-urandom.git
